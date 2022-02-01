@@ -1,0 +1,29 @@
+body {
+    width: 90%;
+    min-height: 400px;
+}
+
+#app {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.male {
+    background-color: steelblue;
+    border: none;
+    border-color: steelblue;
+    padding: 10px;
+}
+
+.female {
+    background-color: pink;
+    border: none;
+    border-color: pink;
+    padding: 10px;
+}
